@@ -43,7 +43,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alamgir651&layout=compact&theme=tokyonight)
 
----
 
 ## 🔥 GitHub Streak
 
