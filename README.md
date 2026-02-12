@@ -13,6 +13,18 @@
 
 ---
 
+## 🚀 Services I Offer
+
+✔ Custom Node.js Backend Development  
+✔ REST API Development  
+✔ Stripe Payment Integration  
+✔ SaaS Application Development  
+✔ Discord Bot Development  
+✔ Bug Fixing & Optimization  
+✔ Deployment (VPS, cPanel, Railway, Vercel)
+
+
+
 ## 🛠 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -26,17 +38,18 @@
 
 ## 📊 GitHub Stats
 
-![Alamgeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Alamgeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alamgir651&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamgir651&layout=compact&theme=radical)
+
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alamgir651&theme=radical)
 
----
 
 ## 📫 Connect With Me
 
