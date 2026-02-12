@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alamgeerkhan</h1>
+<h1 align="center">Hi 👋, I'm Alamgeer khan</h1>
 <h3 align="center">🚀 Node.js Backend Developer | MERN Stack | SaaS Developer</h3>
 
 ---
