@@ -40,7 +40,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 Fiverr: Your Fiverr Link
-- 💼 Upwork: Your Upwork Link
+- 💼 Fiverr: https://www.fiverr.com/s/zWaE9ko
+- 💼 Upwork: https://www.upwork.com/freelancers/~01eb1a6b7a141dc493?mp_source=share
 - 🌐 Portfolio: Your Portfolio Link
-- 📧 Email: your@email.com
+- 📧 Email: khanalamgeer996@gmail.com
